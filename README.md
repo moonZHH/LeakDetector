@@ -1,5 +1,9 @@
 # IntentChecker
 
+## Code
+
+The source code is available at: https://github.com/moonZHH/LeakDetector-Code
+
 ## Publication
 
 If you are interested about the details of IntentChecker, please refer to our research paper:  
